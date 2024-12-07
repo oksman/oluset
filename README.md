@@ -1,4 +1,4 @@
-# jouni-rokamat
+# Oluset
 Täällä listataan synonyymejä oluelle
 
 - Biisoni
